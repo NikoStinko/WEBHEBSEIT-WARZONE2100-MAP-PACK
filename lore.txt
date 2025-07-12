@@ -1,3 +1,6 @@
+
+
+EN : 
 In an alternate reality:
 
     2150: Humanity resurfaces after the nuclear holocaust, and nations reform.
@@ -7,11 +10,10 @@ In an alternate reality:
     2201: The two victorious nations prepare to solidify their control, while the defeated nations form a coalition to retake the Webhebseit. (MAP B)
 
 
-
-$
-
+--------------------------------
 
 
+FR :
 Dans un futur alternatif :
 
     2150 : L’humanité refait surface après l'holocauste nucléaire, les pays se reforment.
